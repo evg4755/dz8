@@ -1,0 +1,15 @@
+/Users/evgenij/Desktop/dz8/zd54/bin/Debug/net6.0/zd54
+/Users/evgenij/Desktop/dz8/zd54/bin/Debug/net6.0/zd54.deps.json
+/Users/evgenij/Desktop/dz8/zd54/bin/Debug/net6.0/zd54.runtimeconfig.json
+/Users/evgenij/Desktop/dz8/zd54/bin/Debug/net6.0/zd54.dll
+/Users/evgenij/Desktop/dz8/zd54/bin/Debug/net6.0/zd54.pdb
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/zd54.csproj.AssemblyReference.cache
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/zd54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/zd54.AssemblyInfoInputs.cache
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/zd54.AssemblyInfo.cs
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/zd54.csproj.CoreCompileInputs.cache
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/zd54.dll
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/refint/zd54.dll
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/zd54.pdb
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/zd54.genruntimeconfig.cache
+/Users/evgenij/Desktop/dz8/zd54/obj/Debug/net6.0/ref/zd54.dll
